@@ -8,7 +8,7 @@ angular.module('myapp').controller('MyCtrl', function($scope, models, CrudApi){
       id: 'Código',
       nome: 'Nome do indivíduo',
       idade: 'Quantos anos tem',
-      Pais: 'Raça',
+      pais: 'Pais',
     },
   };
   
